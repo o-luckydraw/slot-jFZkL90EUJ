@@ -233,12 +233,6 @@ function DrawPage() {
                                         >
                                             5개
                                         </button>
-                                        <button
-                                            type="button"
-                                            onClick={() => handlePresetClick(10)}
-                                        >
-                                            10개
-                                        </button>
                                     </div>
                                 </div>
 
